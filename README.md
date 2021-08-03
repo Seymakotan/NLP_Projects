@@ -2,6 +2,6 @@
 **Machine Translation Diagram :**
 
 
-![alt text](https://github.com/Seymakotan/NLP_Projects/blob/main/Sentiment_Analysis_LSTM_GRU/Sent-analysis-diag.png)
+![alt text](https://github.com/Seymakotan/NLP_Projects/blob/main/Makine%20%C3%87evirisi_seq2seq_NMT/nmt-diag.png)
 
 
